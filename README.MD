@@ -4,8 +4,7 @@ A production-grade **Employee Management Dashboard** built with the **MERN Stack
 
 This project is designed to handle large datasets efficiently using **AG Grid** with client-side rendering, meeting all assignment requirements with added productivity features.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600/0f172a/ffffff?text=Smart+HR+Dashboard+Preview) 
-*(Note: Replace this link with a real screenshot after uploading to GitHub)*
+
 
 ---
 
